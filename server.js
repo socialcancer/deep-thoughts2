@@ -27,7 +27,8 @@ const startServer = async () => {
   // log where we can go to test our GQL API
   console.log(`Use GraphQL at http://localhost:${PORT}${server.graphqlPath}`);
 };
-
+//making an update
+//this is just a quick test to understand this ish
 
 // Initialize the Apollo server
 startServer();

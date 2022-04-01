@@ -16,6 +16,7 @@ const addDateSuffix = date => {
 
   return dateStr;
 };
+//making a simple update
 
 // function to format a timestamp, accepts the timestamp and an `options` object as parameters
 module.exports = (
